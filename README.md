@@ -181,13 +181,6 @@ Other tables include: `Contracts`, `PurchaseOrders`, `BudgetAllocations`, `Expen
 
 ---
 
-## 🤝 Contributors
-
-- **Shahzaib Ali** - Full Stack Developer
-- **Umar Iftikhar [Profile Link](https://github.com/Oye-Umar)** - Database Specialist
-
-
----
 
 ## 📄 License
 
